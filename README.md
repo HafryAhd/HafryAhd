@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Future+Sustainable+Grid+Engineer;Clean+Energy+Enthusiast;Tech+Learner+%7C+Problem+Solver" />
+<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Future+Sustainable+Grid+Engineer;Clean+Energy+Enthusiast;Tech+Learner+%7C+Problem+Solver](https://github.com/HafryAhd/HafryAhd/blob/main/WhatsApp%20Image%202026-03-09%20at%2012.50.05%20PM.jpg)" />
 
 </div>
 
@@ -73,7 +73,7 @@
 
 ## 🌐 Connect With Me
 
-- 📧 Email: your-email@example.com
+- 📧 Email: hafriahamed21@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/your-profile
 
 ---
